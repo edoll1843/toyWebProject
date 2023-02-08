@@ -5,14 +5,13 @@ springboot shoppingmall backend
 # 2023.02.08 commit
 사용한 기술스택 정리
 인텔리제이 DB(mysql)연동 및 application.properties update 
-* 형상
-- git
 
-* front
+형상
+- git
+front
 - html
 - js || vue || jquery
-
-* back
+back
 - java
 - mybatis
 - mysql
