@@ -6,17 +6,17 @@ springboot shoppingmall backend
 사용한 기술스택 정리
 인텔리제이 DB(mysql)연동 및 application.properties update 
 
-형상
+## 형상
 - git
-front
+## front
 - html
-- js || vue || jquery
-back
+- js
+## back
 - java
 - mybatis
 - mysql
 
-TO-DO
+## TO-DO
 1. 회원가입
 2. 로그인
 
