@@ -13,4 +13,16 @@ public class testController {
     public String test() {
         return "index.html";
     }
+
+    @GetMapping("/loginResistForm")
+    public String loginResistForm() {
+        return "loginResistForm.html";
+    }
+
+    @GetMapping("/getIdTest")
+    public String getIdTest(){
+        return "blog.html";
+    }
+
+
 }
