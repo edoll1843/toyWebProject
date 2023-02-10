@@ -21,6 +21,7 @@ public class testController {
 
     @GetMapping("/getIdTest")
     public String getIdTest(){
+
         return "blog.html";
     }
 
