@@ -1,6 +1,10 @@
 # toyWebProject
 springboot shoppingmall backend
 
+# 2023.02.10 commit
+## 유저VO생성 및 mysql 테이블 생성
+- lombok추가
+
 # 2023.02.09 commit
 ## 로그인/회원가입 폼 commit
 - loginResistForm.html
