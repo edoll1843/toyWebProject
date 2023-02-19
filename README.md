@@ -1,6 +1,12 @@
 # toyWebProject
 springboot shoppingmall backend
 
+# 2023.02.19 commit
+## 로그인 구현
+- 사용자 입력(view) - js(전문) - controller(vo/dao) - db 데이터 insert(mybatis)
+- 그냥 jquery 쓸까..
+- ajax 통신 안댐(TO-DO)
+
 # 2023.02.10 commit
 ## 유저VO생성 및 mysql 테이블 생성
 - lombok추가
