@@ -1,6 +1,9 @@
 # toyWebProject
 springboot shoppingmall backend
 
+# 2023.05.27 commit
+* 프로젝트 재개발
+
 # 2023.02.19 commit
 ## 로그인 구현
 - 사용자 입력(view) - js(전문) - controller(vo/dao) - db 데이터 insert(mybatis)
@@ -40,4 +43,3 @@ MVC패턴 지향
 # 2023.02.07 commit
 * 인텔리제이 초기 설정(as-is VSC)
 * 제작할 홈페이지 테마 선정 및 템플릿 적용
-
